@@ -39,8 +39,8 @@ docker compose up -d
 
 ### Get involved
 
-- Star and watch the [main repository](https://github.com/YOUR-ORG/pane) to follow releases.
-- Found a bug or have an idea? [Open an issue](https://github.com/YOUR-ORG/pane/issues).
+- Star and watch the [main repository](https://github.com/getpane/pane) to follow releases.
+- Found a bug or have an idea? [Open an issue](https://github.com/getpane/pane/issues).
 - Pull requests are welcome, from typo fixes to new features.
 
 <p align="center">
